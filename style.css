@@ -1,0 +1,19 @@
+.g1,.g2,.hgg{
+    padding :50px;
+    text-align: center;
+    font-family:Cursive;
+    color: white;
+  text-shadow: 4px 4px 4px #000000;
+  background-color: #181D31;
+  border: 5px solid #181D31;
+border-radius: 39px;
+  }
+hr{
+  border: none;
+}
+body {
+  background-color:#F7DBF0;
+}
+a{
+ color: #32C1CD;
+}
